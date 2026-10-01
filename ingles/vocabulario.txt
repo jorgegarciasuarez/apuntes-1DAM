@@ -2,3 +2,5 @@
 - Computer
 - Software
 - Hardware
+- Database
+- Code

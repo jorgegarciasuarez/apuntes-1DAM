@@ -1,0 +1,19 @@
+[1mdiff --git a/ingles/vocabulario.txt b/ingles/vocabulario.txt[m
+[1mindex 55abc46..2c16835 100644[m
+[1m--- a/ingles/vocabulario.txt[m
+[1m+++ b/ingles/vocabulario.txt[m
+[36m@@ -2,3 +2,5 @@[m
+ - Computer[m
+ - Software[m
+ - Hardware[m
+[32m+[m[32m- Database[m
+[32m+[m[32m- Code[m
+[1mdiff --git a/programacion/tema1.txt b/programacion/tema1.txt[m
+[1mindex 1e1dc11..1f8fad3 100644[m
+[1m--- a/programacion/tema1.txt[m
+[1m+++ b/programacion/tema1.txt[m
+[36m@@ -1,3 +1,4 @@[m
+ ﻿Tema 1: Introducción a la programación[m
+ - Algoritmos[m
+ - Diagramas de flujo[m
+[32m+[m[32m- Estructuras de control: if, while, for[m
